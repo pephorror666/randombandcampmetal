@@ -1,2 +1,3 @@
 streamlit
-pylast
+beautifulsoup4
+requests
